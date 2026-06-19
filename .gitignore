@@ -1,0 +1,21 @@
+# Java compiled files
+*.class
+
+# Serialization files
+*.ser
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Build folders
+bin/
+out/
+target/
