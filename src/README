@@ -1,0 +1,28 @@
+Project Title
+# Employee Management System (Core Java)
+Features
+✔ Add Employee
+✔ View Employees
+✔ Search Employee
+✔ Update Salary
+✔ Delete Employee
+✔ Sort Employees
+✔ Save Employee Data
+✔ Load Employee Data
+Technologies
+Java
+Collections Framework
+Streams API
+Optional
+Serialization
+File Handling
+OOP
+Project Structure
+model/
+service/
+util/
+main/
+How to Run
+1. Clone the repository
+2. Compile the project
+3. Run Main.java
