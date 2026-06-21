@@ -6,14 +6,19 @@ A console-based Employee Management System built using **Core Java**.
 
 ## 📌 Features
 
+- 🔐 Simple Login Authentication (Maximum 3 Login Attempts)
 - ✅ Add Employee
 - ✅ View Employees
 - ✅ Search Employee
 - ✅ Update Salary
 - ✅ Delete Employee
-- ✅ Sort Employees
-- ✅ Save Employee Data
-- ✅ Load Employee Data
+- ✅ Sort Employees by Salary
+- 💾 Save Employee Data using Serialization
+- 📂 Load Employee Data using Deserialization
+
+This project is a console-based Employee Management System developed using Core Java to demonstrate Object-Oriented Programming, Collections Framework, Java Streams, File Handling, and Serialization concepts.
+
+The application provides CRUD operations for employee records along with secure login authentication and persistent data storage using Serialization.
 
 ---
 

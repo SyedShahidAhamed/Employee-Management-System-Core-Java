@@ -1,3 +1,15 @@
+ ## 📖 What I Learned
+
+Through this project, I gained hands-on experience with:
+
+- Designing applications using Object-Oriented Programming (OOP)
+- Implementing CRUD operations using the Collections Framework
+- Using Java Streams API, Optional, and Comparator
+- Handling exceptions and file operations
+- Persisting data using Serialization and Deserialization
+- Organizing code with a layered architecture
+- Building and debugging a complete console-based Java application
+
 Employee Management System (Core Java) - Project Notes
 Project Objective
 
@@ -410,3 +422,5 @@ Project Rating: 9.5/10
 This is a solid Core Java project and an excellent foundation for moving to JDBC,
  where you'll replace file-based storage with a real MySQL database. 
  That will be your next major milestone toward becoming a Java Full Stack Developer.
+
+
