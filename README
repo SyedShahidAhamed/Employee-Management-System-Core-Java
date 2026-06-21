@@ -1,28 +1,94 @@
-Project Title
-# Employee Management System (Core Java)
-Features
-✔ Add Employee
-✔ View Employees
-✔ Search Employee
-✔ Update Salary
-✔ Delete Employee
-✔ Sort Employees
-✔ Save Employee Data
-✔ Load Employee Data
-Technologies
-Java
-Collections Framework
-Streams API
-Optional
-Serialization
-File Handling
-OOP
-Project Structure
-model/
-service/
-util/
-main/
-How to Run
+# 🚀 Employee Management System (Core Java)
+
+A console-based Employee Management System built using **Core Java**.
+
+---
+
+## 📌 Features
+
+- ✅ Add Employee
+- ✅ View Employees
+- ✅ Search Employee
+- ✅ Update Salary
+- ✅ Delete Employee
+- ✅ Sort Employees
+- ✅ Save Employee Data
+- ✅ Load Employee Data
+
+---
+
+## 🛠 Technologies Used
+
+- Java
+- OOP
+- Collections Framework
+- Streams API
+- Optional
+- Serialization
+- File Handling
+- Exception Handling
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── main
+ ├── model
+ ├── service
+ └── util
+```
+
+---
+
+## ▶️ How to Run
+
 1. Clone the repository
-2. Compile the project
-3. Run Main.java
+
+```bash
+git clone <repo-url>
+```
+
+2. Compile
+
+```bash
+javac *.java
+```
+
+3. Run
+
+```bash
+java Main
+```
+
+---
+
+## 📚 Concepts Used
+
+- Object-Oriented Programming
+- Collections Framework
+- Java Streams
+- Optional
+- Comparator
+- Method References
+- File Handling
+- Serialization
+- Exception Handling
+- Layered Architecture
+
+---
+
+## 🚀 Future Improvements
+
+- JDBC + MySQL
+- Spring Boot REST API
+- Spring Data JPA
+- Spring Security (JWT)
+- React Frontend
+
+---
+
+## 👨‍💻 Author
+
+**Syed Shahid Ahamed**
