@@ -29,7 +29,7 @@ public class EmployeeService {
         if(employees.isEmpty())
         {
             System.out.println("No employees found.");
-            return ;
+            return ;//return out of method
         }
             for(Employee emp : employees)
             {
